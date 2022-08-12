@@ -31,7 +31,7 @@
 
 .img_carousel {
   object-fit: cover;
-  object-position: 54.128% 0%;
+  object: position 54.128%;
   box-sizing: border-box;
   padding-top: 50px;
   display: block;
@@ -39,6 +39,7 @@
   width: 100%;
   height: auto;
   max-width: 600px;
+  
 }
 
 .carousel_name {
